@@ -1,3 +1,3 @@
 # Test demo
 
-SOme description
+Some description
